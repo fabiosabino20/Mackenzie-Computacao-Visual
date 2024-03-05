@@ -4,6 +4,14 @@ Repositório para a matéria de Computação Visual do 7o semestre do curso de C
 Repositório do Professor André Kishimoto: https://profkishimoto.github.io/compvis07n-2024-1/
 
 # Grupo:
+NOME: DIEGO GUEDES\
+TIA:\
+RA: 
+
+NOME: FABIO DOMINGUES PEREIRA SABINO\
+TIA: 32154429\
+RA: 10277530
+
 NOME: MAYARA MENEGHETTI HONDA\
 TIA: 32152280\
 RA: 10390051
@@ -11,14 +19,6 @@ RA: 10390051
 NOME: PEDRO MORENO CAMPOS\
 TIA: 32172656\
 RA: 10390807
-
-NOME: FABIO DOMINGUES PEREIRA SABINO\
-TIA: 32154429\
-RA: 10277530
-
-NOME: DIEGO GUEDES\
-TIA:\
-RA: 
 
 ---
 
