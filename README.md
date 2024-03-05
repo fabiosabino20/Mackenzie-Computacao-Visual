@@ -5,8 +5,8 @@ Repositório do Professor André Kishimoto: https://profkishimoto.github.io/comp
 
 # Grupo:
 NOME: DIEGO GUEDES\
-TIA:\
-RA: 
+TIA:32148127
+RA:10389879
 
 NOME: FABIO DOMINGUES PEREIRA SABINO\
 TIA: 32154429\
@@ -51,4 +51,5 @@ Entendo que a matéria Computação Visual está associada à parte gráfica da 
 
 DIEGO GUEDES
 
+Para mim computação visual é a utilização das ferramentas que temos e criamos para criar modelos identificaveis aos nossos olhos, um exemplo disso sao os jogos cada vez mais realistas que olhamos e pensamos que parecem cenas de filmes, ou cenas da vida real. Acredito que isso seja englobado pela computação visual e espero que estudemos um pouco dessa parte.
 ...
