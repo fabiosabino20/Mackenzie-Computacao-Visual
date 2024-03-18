@@ -57,7 +57,7 @@ Para mim computação visual é a utilização das ferramentas que temos e criam
 
 ---
 
-# Atividade 02
+# Atividade 03
 
 ### Enunciado:
 Nessa semana, vimos que os processos de amostragem e quantização são realizados para converter dados contínuos (capturados por sensores de aquisição de imagens) em dados discretos, resultando na geração de imagens digitais.
